@@ -1,0 +1,33 @@
+{
+  "version": 2,
+  "dgSpecHash": "c3R6qqj6WctDX8gbxcNI3yUk700gGjL4tBAeplIjXHjyVWWM16Jxefi9zeuskr9SGZ0enKwXTOUXYjgTU56T+A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\s.fahmy\\OneDrive - Cundall\\Documents\\Useful Docs\\Scripts\\C#\\Tekla_Connection\\Tekla_Connection.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\s.fahmy\\.nuget\\packages\\google.protobuf\\3.21.9\\google.protobuf.3.21.9.nupkg.sha512",
+    "C:\\Users\\s.fahmy\\.nuget\\packages\\grpc\\2.35.0\\grpc.2.35.0.nupkg.sha512",
+    "C:\\Users\\s.fahmy\\.nuget\\packages\\grpc.core\\2.35.0\\grpc.core.2.35.0.nupkg.sha512",
+    "C:\\Users\\s.fahmy\\.nuget\\packages\\grpc.core.api\\2.35.0\\grpc.core.api.2.35.0.nupkg.sha512",
+    "C:\\Users\\s.fahmy\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",
+    "C:\\Users\\s.fahmy\\.nuget\\packages\\microsoft.netcore.platforms\\1.0.1\\microsoft.netcore.platforms.1.0.1.nupkg.sha512",
+    "C:\\Users\\s.fahmy\\.nuget\\packages\\microsoft.netcore.targets\\1.0.1\\microsoft.netcore.targets.1.0.1.nupkg.sha512",
+    "C:\\Users\\s.fahmy\\.nuget\\packages\\microsoft.win32.registry\\4.0.0\\microsoft.win32.registry.4.0.0.nupkg.sha512",
+    "C:\\Users\\s.fahmy\\.nuget\\packages\\system.collections\\4.0.11\\system.collections.4.0.11.nupkg.sha512",
+    "C:\\Users\\s.fahmy\\.nuget\\packages\\system.globalization\\4.0.11\\system.globalization.4.0.11.nupkg.sha512",
+    "C:\\Users\\s.fahmy\\.nuget\\packages\\system.interactive.async\\6.0.1\\system.interactive.async.6.0.1.nupkg.sha512",
+    "C:\\Users\\s.fahmy\\.nuget\\packages\\system.io\\4.1.0\\system.io.4.1.0.nupkg.sha512",
+    "C:\\Users\\s.fahmy\\.nuget\\packages\\system.linq.async\\6.0.1\\system.linq.async.6.0.1.nupkg.sha512",
+    "C:\\Users\\s.fahmy\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
+    "C:\\Users\\s.fahmy\\.nuget\\packages\\system.reflection\\4.1.0\\system.reflection.4.1.0.nupkg.sha512",
+    "C:\\Users\\s.fahmy\\.nuget\\packages\\system.reflection.primitives\\4.0.1\\system.reflection.primitives.4.0.1.nupkg.sha512",
+    "C:\\Users\\s.fahmy\\.nuget\\packages\\system.resources.resourcemanager\\4.0.1\\system.resources.resourcemanager.4.0.1.nupkg.sha512",
+    "C:\\Users\\s.fahmy\\.nuget\\packages\\system.runtime\\4.1.0\\system.runtime.4.1.0.nupkg.sha512",
+    "C:\\Users\\s.fahmy\\.nuget\\packages\\system.runtime.extensions\\4.1.0\\system.runtime.extensions.4.1.0.nupkg.sha512",
+    "C:\\Users\\s.fahmy\\.nuget\\packages\\system.runtime.handles\\4.0.1\\system.runtime.handles.4.0.1.nupkg.sha512",
+    "C:\\Users\\s.fahmy\\.nuget\\packages\\system.runtime.interopservices\\4.1.0\\system.runtime.interopservices.4.1.0.nupkg.sha512",
+    "C:\\Users\\s.fahmy\\.nuget\\packages\\system.text.encoding\\4.0.11\\system.text.encoding.4.0.11.nupkg.sha512",
+    "C:\\Users\\s.fahmy\\.nuget\\packages\\system.threading.tasks\\4.0.11\\system.threading.tasks.4.0.11.nupkg.sha512",
+    "C:\\Users\\s.fahmy\\.nuget\\packages\\teklastructuraldesigner.remotingapi\\0.22.4\\teklastructuraldesigner.remotingapi.0.22.4.nupkg.sha512"
+  ],
+  "logs": []
+}
